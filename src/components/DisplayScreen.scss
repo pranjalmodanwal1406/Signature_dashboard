@@ -1,0 +1,35 @@
+// .display-screen {
+//     // Default styling
+//     display: flex;
+//     justify-content: center;
+//     align-items: center;
+//     padding: 20px;
+  
+//     &.Arial { font-family: Arial, sans-serif; }
+//     &.Verdana { font-family: Verdana, sans-serif; }
+//     &.Times { font-family: "Times New Roman", serif; }
+//     &.Courier { font-family: "Courier New", monospace; }
+//     &.Georgia { font-family: Georgia, serif; }
+  
+//     &.small { font-size: 12px; }
+//     &.medium { font-size: 16px; }
+//     &.large { font-size: 20px; }
+  
+//     &.tight { line-height: 1.2; }
+//     &.normal { line-height: 1.5; }
+//     &.wide { line-height: 1.8; }
+  
+//     &.left { text-align: left; }
+//     &.center { text-align: center; }
+//     &.right { text-align: right; }
+  
+//     &.circle { border-radius: 50%; }
+//     &.square { border-radius: 0; }
+//     &.rectangle { border-radius: 10px; }
+    
+//     .content {
+//       max-width: 600px;
+//       margin: auto;
+//     }
+//   }
+  
